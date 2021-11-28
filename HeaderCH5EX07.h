@@ -8,6 +8,6 @@
 #define MAIN_CPP_HEADER_H
 
 #include <iostream>
-#include <math.h>
+#include <cmath>
 
 #endif
